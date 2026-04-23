@@ -39,15 +39,7 @@ This repository contains my solutions to the **Striver DSA Sheet**, aimed at mas
 * Writing clean and optimized code
 * Focusing on pattern recognition
 * Revising regularly
-
----
-
-## 📅 Progress Tracker
-
-| Day   | Topic   | Problems Solved |
-| ----- | ------- | --------------- |
-| Day 1 | Arrays  | 6               |
-            |
+         |
 
 ---
 
