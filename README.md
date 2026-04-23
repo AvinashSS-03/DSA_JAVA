@@ -19,7 +19,7 @@ This repository contains my solutions to the **Striver DSA Sheet**, aimed at mas
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics to be Covered
 
 * Arrays
 * Strings
@@ -46,8 +46,8 @@ This repository contains my solutions to the **Striver DSA Sheet**, aimed at mas
 
 | Day   | Topic   | Problems Solved |
 | ----- | ------- | --------------- |
-| Day 1 | Arrays  | 3               |
-| Day 2 | Strings | 3               |
+| Day 1 | Arrays  | 6               |
+            |
 
 ---
 
