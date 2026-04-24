@@ -1,5 +1,5 @@
 public class Check_for_Prime_Number {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int n=11;
         boolean isprime=true;
         for(int i=2;i<n/2;i++){
