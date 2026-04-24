@@ -7,7 +7,7 @@ public static void main(String args[]){
         r=r*10+(n%10);
         n/=10;
 
-    }
+    } 
     System.out.print(r);
 }
 }
