@@ -7,7 +7,7 @@ public class Palindrome_Number {
     public void reverse(int num){
          int r=0;
          int c=num;
-        while(num!=0) {
+        while(num!=0) { 
             r = r * 10 + (num % 10);
             num = num / 10;
         }
