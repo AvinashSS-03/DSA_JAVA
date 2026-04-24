@@ -7,7 +7,7 @@ The number will have no leading zeroes, except when the number is 0 itself.
 
         Example 1
 
-Input: n = 4
+Input: n = 4 
 
 Output: 1
 
