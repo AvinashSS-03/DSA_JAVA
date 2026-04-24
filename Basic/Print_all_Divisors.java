@@ -7,5 +7,5 @@ public class Print_all_Divisors {
             }
 
         }
-    }
+    } 
 }
