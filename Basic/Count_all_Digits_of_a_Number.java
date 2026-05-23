@@ -7,7 +7,7 @@ The number will have no leading zeroes, except when the number is 0 itself.
 
         Example 1
 
-Input: n = 4
+Input: n = 4 
 
 Output: 1
 
@@ -19,7 +19,7 @@ Input: n = 14
 
 Output: 2
 
-Explanation: There are 2 digits in 14.*/
+Explanation: There are 2 digits in 14.*/package Basic;
 import java.util.*;
 public class Count_all_Digits_of_a_Number {
 public static void main(String args[]){
