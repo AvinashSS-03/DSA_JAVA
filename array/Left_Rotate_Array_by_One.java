@@ -4,7 +4,7 @@ import java.util.Arrays;
 /*Problem statement:we have to Left rotate the array by K times
 Solution:First we reverse the entire array then we split by k then reverse first half and second this is a optimized way time complexity:o(n)
  */
-public class Left_Rotate_Array_by_One {
+public class Left_Rotate_Array_by_One { 
     public static void main(String[] args) {
         int[] nums={1,2,3,4,5,6,7};
         int k=3;
