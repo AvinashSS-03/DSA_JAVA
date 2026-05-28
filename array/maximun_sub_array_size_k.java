@@ -8,8 +8,8 @@ public class maximun_sub_array_size_k {
         for(int i=0;i<arr.length-k;i++){
             int current_sum=0;
 
-            for(int j=i;j<i+k;j++){
-                current_sum+=arr[j];
+            for(int e=i;e<i+k;e++){
+                current_sum+=arr[e];
             }
             max=Math.max(current_sum,max);
         }
