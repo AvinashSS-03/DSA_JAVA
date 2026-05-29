@@ -1,62 +1,68 @@
-# 🚀  DSA Sheet Solutions
+# 🚀 DSA Sheet Solutions — Java
 
-This repository contains my solutions to the **Striver DSA Sheet**, aimed at mastering Data Structures & Algorithms and preparing for product-based company interviews.
+Structured solutions to the **Striver DSA Sheet**, aimed at mastering Data Structures & Algorithms and cracking product-based company interviews.
+
+![Language](https://img.shields.io/badge/Language-Java-blue)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
+![Sheet](https://img.shields.io/badge/Sheet-Striver%20DSA-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
-## 🧠 Goal
+## 📊 Progress Tracker
 
-* Strengthen problem-solving skills
-* Master DSA patterns
-* Crack high-paying product-based roles (10–15 LPA+)
+| Topic | Status | Problems Done |
+|-------|--------|---------------|
+| Arrays | 🔄 In Progress | 10 |
+| Recursion | 🔄 In Progress | 5 |
+| Sorting | 🔄 In Progress | 4 |
+| Strings | ⏳ Upcoming | — |
+| Hashing | ⏳ Upcoming | — |
+| Sliding Window | ⏳ Upcoming | — |
+| Linked List | ⏳ Upcoming | — |
+| Stack & Queue | ⏳ Upcoming | — |
+| Trees | ⏳ Upcoming | — |
+| Graphs | ⏳ Upcoming | — |
+| Dynamic Programming | ⏳ Upcoming | — |
 
+> Update this table as you solve problems — recruiters love seeing real progress.
+
+---
+
+## 🗂️ Repo Structure
+DSA_JAVA/
+├──Basic Math problems/
+├── Recursion/
+├── Sorting/
+├── Arrays/
+    ├──Easy
+    ├──Medium
+├── LinkedList/       (coming soon)
+└── README.md
 ---
 
 ## 🛠️ Tech Stack
 
-* **Language:** Java
-* **Platform:** LeetCode / Coding platforms
-
----
-
-## 📚 Topics to be Covered
-
-* Arrays
-* Strings
-* Hashing
-* Sliding Window
-* Linked List
-* Stack & Queue
-* Trees
-* Graphs
-* Dynamic Programming
+- **Language:** Java
+- **Platform:** LeetCode / HackerRank
+- **Reference:** Striver A2Z DSA Sheet
 
 ---
 
 ## 📈 Approach
 
-* Solving problems topic-wise
-* Writing clean and optimized code
-* Focusing on pattern recognition
-* Revising regularly
-         |
+- Solving problems topic-wise with Day-based file naming
+- Writing clean, optimized code with inline complexity comments
+- Focusing on pattern recognition over memorization
+- Revising regularly and updating progress above
 
 ---
 
-## 🎯 Key Focus
+## 🔗 My Profiles
 
-* Time & Space Complexity optimization
-* Writing interview-ready code
-* Consistency over shortcuts
-
----
-
-## 🔥 Motivation
-
-> “Consistency beats intensity.”
+- 💻 LeetCode: [avinash_ss](https://www.leetcode.com/avinash_ss)
+- 🐙 GitHub: [AvinashSS-03](https://github.com/AvinashSS-03)
 
 ---
 
-## 📌 Note
-
-All solutions are written and understood by me as part of my learning journey.
+> "Consistency beats intensity."
