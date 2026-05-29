@@ -31,15 +31,21 @@ Structured solutions to the **Striver DSA Sheet**, aimed at mastering Data Struc
 
 ## 🗂️ Repo Structure
 DSA_JAVA/
+
 ├──Basic Math problems/
 
 ├── Recursion/
 
 ├── Sorting/
+
 ├── Arrays/
+
     ├──Easy
+    
     ├──Medium
-├── LinkedList/       (coming soon)
+    
+├── LinkedList/  (coming soon)
+
 └── README.md
 ---
 
