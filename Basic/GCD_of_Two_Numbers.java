@@ -9,7 +9,7 @@ public class GCD_of_Two_Numbers {
             b=a%b;
             a=temp;
         }
-        System.out.print(a);
+        System.out.print("The Gcd is "+ a);
         //eucilidean algortithmal
     }
 }

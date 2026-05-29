@@ -9,6 +9,6 @@ public static void main(String args[]){
         n/=10;
 
     } 
-    System.out.print(r);
+    System.out.print("The reversed number is  " + r);
 }
 }

@@ -13,7 +13,7 @@ public class Check_if_the_Number_is_Armstrong {
 
         }
         if(y==dup) {
-            System.out.print("Armstrong");
+            System.out.print("Armstrong number");
         }
         else{
             System.out.print("Not an Armstrong");

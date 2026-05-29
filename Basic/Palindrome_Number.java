@@ -13,7 +13,7 @@ public class Palindrome_Number {
             num = num / 10;
         }
          if(r==c){
-             System.out.print("Palindrome");
+             System.out.print("The number is a Palindrome");
          }
          else{
              System.out.print("Not a palindrome");

@@ -9,7 +9,7 @@ public class Check_for_Prime_Number {
             }
         }
         if(isprime){
-            System.out.print("The number is prime");
+            System.out.print("The number is prime number");
         }
         else{
             System.out.print("Not a prime number");

@@ -39,6 +39,6 @@ public static void main(String args[]){
 
     }
     }
-    System.out.print(count);
+    System.out.print("The number of digits"+count);
 }
 }
