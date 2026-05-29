@@ -2,7 +2,7 @@ package Recursion;
 public class Fibonacci_Number {
     public static void main(String[] args) {
        Fibonacci_Number obj=new Fibonacci_Number();
-       System.out.print(obj.fibanocci(5));
+       System.out.print( obj.fibanocci(5));
     }
     public int fibanocci(int n){
         if(n==0){

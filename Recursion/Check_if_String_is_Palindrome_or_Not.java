@@ -5,7 +5,7 @@ public class Check_if_String_is_Palindrome_or_Not {
           String name="madam";
           int start=0;
           int end=name.length()-1;
-          System.out.print(obj.palindrome(name,start,end));
+          System.out.print( obj.palindrome(name,start,end));
 
     }
     public boolean palindrome(String n,int start,int end){
