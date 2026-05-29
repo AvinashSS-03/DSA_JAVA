@@ -3,7 +3,7 @@ package Mini_project_1;
 Solution:we can use objects instead of arrays and strings.Tracking student name and marks using objects and using binary search for sorting o(n^2)
  */
 import java.util.Scanner;
-import java.util.*;
+import java.util.*; 
 class Rank{
     String name;  //object
     int marks;    //object
