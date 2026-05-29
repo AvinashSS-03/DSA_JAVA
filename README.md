@@ -13,7 +13,7 @@ Structured solutions to the **Striver DSA Sheet**, aimed at mastering Data Struc
 
 | Topic | Status | Problems Done |
 |-------|--------|---------------|
-| Arrays | 🔄 In Progress | 10 |
+| Arrays | 🔄 In Progress | 19 |
 | Recursion | 🔄 In Progress | 5 |
 | Sorting | 🔄 In Progress | 4 |
 | Strings | ⏳ Upcoming | — |
@@ -32,7 +32,9 @@ Structured solutions to the **Striver DSA Sheet**, aimed at mastering Data Struc
 ## 🗂️ Repo Structure
 DSA_JAVA/
 ├──Basic Math problems/
+
 ├── Recursion/
+
 ├── Sorting/
 ├── Arrays/
     ├──Easy
