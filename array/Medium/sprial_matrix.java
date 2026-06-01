@@ -18,7 +18,7 @@ public class sprial_matrix {
             }
             top++;//increase to next row because first row is added
             for(int i=top;i<=bottom;i++){
-                result.add(matrix[i][right]); //add right last columns
+                result.add(matrix[i][right]);   //add right last columns
             }
             right--; //decrease the right because we have added right column
             if(top<=bottom){
