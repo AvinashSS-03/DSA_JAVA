@@ -15,9 +15,9 @@ public class subarray_with_XOR_k {
         map.put(xor,1);
         for(int num:arr){
             xor=xor^num;
-            int x=xor^k;
-            if(map.containsKey(x)){
-                count+=map.get(x);
+            int t=xor^k;
+            if(map.containsKey(t)){
+                count+=map.get(t);
             }
             map.put(xor,map.getOrDefault(xor,0)+1);
         }
